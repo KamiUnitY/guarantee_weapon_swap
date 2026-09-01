@@ -1,4 +1,4 @@
-local mod = get_mod("visor_hud")
+local mod = get_mod("curve_your_hud")
 
 return {
 	name = mod:localize("mod_name"),

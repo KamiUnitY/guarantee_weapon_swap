@@ -1,5 +1,5 @@
 return {
-	mod_name = { en = "Visor HUD" },
+	mod_name = { en = "Curve Your HUD" },
 	mod_description = {
 		en = "Modifies the HUD to give it a visor appearance.",
 	},

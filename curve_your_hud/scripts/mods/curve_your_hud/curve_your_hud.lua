@@ -1,4 +1,4 @@
-local mod = get_mod("visor_hud")
+local mod = get_mod("curve_your_hud")
 
 local Managers = Managers
 local Quaternion = Quaternion
@@ -47,10 +47,10 @@ local CAMERA_FOLLOW_DELAY_SECONDS = 0.01
 local WORLD_PIXELS_PER_SCREEN_HEIGHT = 0.16
 local HUD_RENDER_TARGET_MATERIAL = "content/ui/meshes/hud_plane/hud_material_effect_no_curve"
 
-local SCREEN_RENDERER_NAME = "visor_hud_screen_renderer"
-local CURVED_RENDERER_NAME = "visor_hud_curved_renderer"
-local UNCURVED_RENDER_PASS = "visor_hud_screen_uncurved"
-local CURVED_RENDER_PASS   = "visor_hud_screen_curved"
+local SCREEN_RENDERER_NAME = "curve_your_hud_screen_renderer"
+local CURVED_RENDERER_NAME = "curve_your_hud_curved_renderer"
+local UNCURVED_RENDER_PASS = "curve_your_hud_screen_uncurved"
+local CURVED_RENDER_PASS   = "curve_your_hud_screen_curved"
 
 local CURVE_GRID_MAX_HEIGHT_STEP = 2
 local CURVE_GRID_MIN_WIDTH = 1

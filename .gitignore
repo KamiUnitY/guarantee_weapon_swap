@@ -25,11 +25,8 @@
 !kami_utilities
 !kami_utilities/**
 
-!curved_hud
-!curved_hud/**
-
-!visor_hud
-!visor_hud/**
+!curve_your_hud
+!curve_your_hud/**
 
 !upside_down_name
 !upside_down_name/**
